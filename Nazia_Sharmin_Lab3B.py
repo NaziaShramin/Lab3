@@ -1,5 +1,4 @@
- #Course: Data Structure , Author:Nazia Sharmin, assignment:Lab3B,instructor:Professor-Diego Aguirre,
-# T.A.:Anindita Nath, date of last modification:None
+ Data Structure , Author:Nazia Sharmin
 from AVLTree import Node, AVLTree
 from RedBlackTree import RBTNode, RedBlackTree
 from collections import defaultdict
